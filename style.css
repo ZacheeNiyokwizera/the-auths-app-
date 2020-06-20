@@ -376,3 +376,15 @@ input:focus {
         -webkit-transform: scale(1)
     }
 }
+
+
+/* styling the to do list form */
+
+#to-do-list-form>button {
+    max-width: 150px;
+    margin-top: 30px;
+}
+
+.delete-button {
+    margin-left: 20px;
+}
